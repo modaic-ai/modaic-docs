@@ -22,9 +22,10 @@ jobs:
         with:
           token: ${{ secrets.PUSH_TOKEN }}
           target-branch: docs
-          subdirectory: ./docs
           repos: |
             - owner: modaic-ai
               repo: modaic
+              subdirectory: ./docs
             - owner: modaic-ai
               repo: retrievers
+              subdirectory: ./docs
