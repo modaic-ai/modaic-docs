@@ -25,9 +25,7 @@
             "groups": [
               {
                 "group": "Getting Started",
-                "pages": [
-                  "modaic/index"
-                ]
+                "pages": ["modaic/index"]
               },
               {
                 "group": "DSPy Programs",
@@ -38,9 +36,7 @@
               },
               {
                 "group": "Retrievers",
-                "pages": [
-                  "modaic/guides/retrievers/retrievers"
-                ]
+                "pages": ["modaic/guides/retrievers/retrievers"]
               }
             ]
           },
@@ -64,9 +60,7 @@
             "groups": [
               {
                 "group": "Get Started",
-                "pages": [
-                  "modaic/dspy_guide/get_started/quickstart"
-                ]
+                "pages": ["modaic/dspy_guide/get_started/quickstart"]
               },
               {
                 "group": "Core Components",
@@ -92,9 +86,7 @@
                   "modaic/dspy_guide/optimization/index",
                   {
                     "group": "Optimizers",
-                    "pages": [
-                      "modaic/dspy_guide/optimization/optimizers/GEPA"
-                    ]
+                    "pages": ["modaic/dspy_guide/optimization/optimizers/GEPA"]
                   }
                 ]
               }
@@ -103,9 +95,7 @@
           {
             "tab": "DSPy IntelliSense",
             "icon": "brain-circuit",
-            "pages": [
-              "modaic/dspy-intellisense"
-            ]
+            "pages": ["modaic/dspy-intellisense"]
           }
         ]
       },
@@ -118,9 +108,7 @@
             "groups": [
               {
                 "group": "Get Started",
-                "pages": [
-                  "retrievers/index"
-                ]
+                "pages": ["retrievers/index"]
               },
               {
                 "group": "Context",
@@ -147,15 +135,11 @@
               },
               {
                 "group": "Retrievers",
-                "pages": [
-                  "retrievers/guides/retrievers/retrievers"
-                ]
+                "pages": ["retrievers/guides/retrievers/retrievers"]
               },
               {
                 "group": "Storage",
-                "pages": [
-                  "retrievers/guides/storage/file_stores"
-                ]
+                "pages": ["retrievers/guides/storage/file_stores"]
               }
             ]
           },
@@ -174,9 +158,7 @@
               },
               {
                 "group": "Indexing",
-                "pages": [
-                  "retrievers/sdk_reference/retrievers/indexing"
-                ]
+                "pages": ["retrievers/sdk_reference/retrievers/indexing"]
               },
               {
                 "group": "Databases",
