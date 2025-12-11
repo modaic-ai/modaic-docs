@@ -110,7 +110,7 @@
         ]
       },
       {
-        "product": "Retrievers Docs",
+        "product": "Retrievers SDK",
         "tabs": [
           {
             "tab": "Documentation",
