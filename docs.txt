@@ -162,47 +162,15 @@
           {
             "tab": "SDK Reference",
             "icon": "square-terminal",
-            "groups": [
+            "products": [
               {
-                "group": "Context",
+                "product": "Analytics Platform",
+                "description": "Analytics Platform description",
+                "icon": "chart-bar",
                 "pages": [
-                  "retrievers/sdk_reference/retrievers/context/base",
-                  "retrievers/sdk_reference/retrievers/context/table",
-                  "retrievers/sdk_reference/retrievers/context/text",
-                  "retrievers/sdk_reference/retrievers/context/dtype_mapping"
-                ]
-              },
-              {
-                "group": "Indexing",
-                "pages": [
-                  "retrievers/sdk_reference/retrievers/indexing"
-                ]
-              },
-              {
-                "group": "Databases",
-                "pages": [
-                  {
-                    "group": "Vector Database",
-                    "pages": [
-                      "retrievers/sdk_reference/retrievers/databases/vector_database/vector_database",
-                      {
-                        "group": "Vendors",
-                        "pages": [
-                          "retrievers/sdk_reference/retrievers/databases/vector_database/vendors/milvus"
-                        ]
-                      },
-                      "retrievers/sdk_reference/retrievers/query_language"
-                    ]
-                  },
-                  "retrievers/sdk_reference/retrievers/databases/sql_database",
-                  "retrievers/sdk_reference/retrievers/databases/graph_database"
-                ]
-              },
-              {
-                "group": "Context Storage",
-                "pages": [
-                  "retrievers/sdk_reference/retrievers/storage/file_store",
-                  "retrievers/sdk_reference/retrievers/storage/pickle_store"
+                  "analytics/overview",
+                  "analytics/dashboard",
+                  "analytics/reports"
                 ]
               }
             ]
