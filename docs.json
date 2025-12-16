@@ -14,5 +14,11 @@
     "default": "dark",
     "strict": false
   },
-  "navigation": {}
+  "navigation": {},
+  "redirects": [
+    {
+      "source": "/",
+      "destination": "/modaic"
+    }
+  ]
 }
