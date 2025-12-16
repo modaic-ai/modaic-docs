@@ -210,5 +210,11 @@
         ]
       }
     ]
-  }
+  },
+  "redirects": [
+    {
+      "source": "/",
+      "destination": "/modaic"
+    }
+  ]
 }
