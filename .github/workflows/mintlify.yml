@@ -19,7 +19,7 @@ jobs:
       - name: Clone repo
         uses: actions/checkout@v4
       - name: Run mintlify action
-        uses: TyTodd/multirepo-action@v0.1
+        uses: TyTodd/multirepo-action@main
         with:
           token: ${{ secrets.PUSH_TOKEN }}
           target-branch: docs
