@@ -18,6 +18,8 @@
     "products": [
       {
         "product": "Modaic Docs",
+        "icon": "octopus",
+        "description": "Modaic SDK Reference and Guides",
         "tabs": [
           {
             "tab": "Documentation",
@@ -111,6 +113,8 @@
       },
       {
         "product": "Retrievers SDK",
+        "icon": "bone",
+        "description": "Easily build powerful retrieval algorithms for AI Agents",
         "tabs": [
           {
             "tab": "Documentation",
