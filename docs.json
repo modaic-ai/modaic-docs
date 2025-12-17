@@ -35,7 +35,8 @@
                 "group": "DSPy Programs",
                 "pages": [
                   "modaic/guides/programs/precompiled_program",
-                  "modaic/guides/programs/auto_program"
+                  "modaic/guides/programs/auto_program",
+                  "modaic/guides/programs/bundling_a_program"
                 ]
               },
               {
