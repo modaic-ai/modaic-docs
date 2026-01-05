@@ -38,12 +38,6 @@
                   "modaic/guides/programs/auto_program",
                   "modaic/guides/programs/bundling_a_program"
                 ]
-              },
-              {
-                "group": "Retrievers",
-                "pages": [
-                  "modaic/guides/retrievers/retrievers"
-                ]
               }
             ]
           },
